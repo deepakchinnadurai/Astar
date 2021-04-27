@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Astar/static/css/main.6e401f1d.chunk.css",
+    "main.js": "/Astar/static/js/main.59daa40e.chunk.js",
+    "main.js.map": "/Astar/static/js/main.59daa40e.chunk.js.map",
+    "runtime-main.js": "/Astar/static/js/runtime-main.b5b4e0f9.js",
+    "runtime-main.js.map": "/Astar/static/js/runtime-main.b5b4e0f9.js.map",
+    "static/js/2.91a3236b.chunk.js": "/Astar/static/js/2.91a3236b.chunk.js",
+    "static/js/2.91a3236b.chunk.js.map": "/Astar/static/js/2.91a3236b.chunk.js.map",
+    "static/js/3.13387dac.chunk.js": "/Astar/static/js/3.13387dac.chunk.js",
+    "static/js/3.13387dac.chunk.js.map": "/Astar/static/js/3.13387dac.chunk.js.map",
+    "index.html": "/Astar/index.html",
+    "static/css/main.6e401f1d.chunk.css.map": "/Astar/static/css/main.6e401f1d.chunk.css.map",
+    "static/js/2.91a3236b.chunk.js.LICENSE.txt": "/Astar/static/js/2.91a3236b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b4e0f9.js",
+    "static/js/2.91a3236b.chunk.js",
+    "static/css/main.6e401f1d.chunk.css",
+    "static/js/main.59daa40e.chunk.js"
+  ]
+}
